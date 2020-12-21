@@ -28,7 +28,7 @@ PyBer customers in rural areas are paying the most on average per ride ($34.62),
 Despite being responsible for 62% of Pyber's fares, drivers in urban areas make the lowest per ride on average. In both rural and suburban areas, drivers make more than how much each rider pays, on average. This is not the case for urban drivers.
 
 ### Weekly Fare by City Type
-![graph](analysis/Fare_by_city_type.png)
+![graph](analysis/PyBer_fare_summary.png)
 
 While there are some general trends, these lines never overlap. Throughout the first few months, rural customers generates the most money in fares, followed by suburban customers and then rural customers. There seems to be a peak across city types around the end of February. We should look at this data across mutliple years to see if we can observe any cyclical/monthly trends. 
 
