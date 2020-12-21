@@ -1,7 +1,5 @@
 # PyBer_Analysis
 using the Matplotlib library for data visualization and SciPy package for summary statistics
-# PyBer_Analysis
-using the Matplotlib library for data visualization and SciPy package for summary statistics
 
 ## Overview
 We are embarking on this analysis in order to better understand PyBer's demographics and see how we can better serve our customers. Specifically, we want to know more about differences in customer experience based on location. To do his, we have grouped the customer data into 3 types: urban, suburban, and rural. 
