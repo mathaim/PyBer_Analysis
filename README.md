@@ -5,9 +5,9 @@ using the Matplotlib library for data visualization and SciPy package for summar
 We are embarking on this analysis in order to better understand PyBer's demographics and see how we can better serve our customers. Specifically, we want to know more about differences in customer experience based on location. To do his, we have grouped the customer data into 3 types: urban, suburban, and rural. 
 
 ### Resources
-Data Source: city_data.csv, ride_data.csv
-Software: Python 3.6.1
-Tools: Jupyter Notebook 6.1.4
+- Data Source: city_data.csv, ride_data.csv
+- Software: Python 3.6.1
+- Tools: Jupyter Notebook 6.1.4
 
 ## Results
 Breaking it up by city type, we can see the following
@@ -28,7 +28,7 @@ PyBer customers in rural areas are paying the most on average per ride ($34.62),
 Despite being responsible for 62% of Pyber's fares, drivers in urban areas make the lowest per ride on average. In both rural and suburban areas, drivers make more than how much each rider pays, on average. This is not the case for urban drivers.
 
 ### Weekly Fare by City Type
-![](analysis/Fare_by_citytype.PNG)
+![](analysis/Fare_by_citytype.png)
 
 While there are some general trends, these lines never overlap. Throughout the first few months, rural customers generates the most money in fares, followed by suburban customers and then rural customers. There seems to be a peak across city types around the end of February. We should look at this data across mutliple years to see if we can observe any cyclical/monthly trends. 
 
