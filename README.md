@@ -10,7 +10,7 @@ We are embarking on this analysis in order to better understand PyBer's demograp
 - Tools: Jupyter Notebook 6.1.4
 
 ## Results
-Breaking it up by city type, we can see the following
+Breaking it up by city type, we can see the following:
 ![Summary](analysis/Summary_by_citytype.PNG)
 
 ### Total Rides 
