@@ -14,7 +14,7 @@ Breaking it up by city type, we can see the following:
 ![Summary](analysis/Summary_by_citytype.PNG)
 
 ### Total Rides 
-There are 5 times the rides in suburban areas as there are in rural areas. There are 13 times the rides in ruban areas as there are in rural areas. This means PyBer has a much stronger presence in urban areas. 
+There are 5 times the rides in suburban areas as there are in rural areas. There are 13 times the rides in urban areas as there are in rural areas. This means PyBer has a much stronger presence in urban areas. 
 ### Total Drivers 
 There are roughly 6 times the drivers in suburban areas as there are in rural areas. There are roughly 30 times more drivers in urban areas as there are in rural areas. 
 
